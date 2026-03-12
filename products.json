@@ -98,17 +98,17 @@
         "category": "Lavanderia"
     },
     {
-        "name": "Jogo De Utensílios Tramontina",
-        "description": "Easy Em Aço Inox 5 Peças Preto",
-        "photo": "https://imgs.casasbahia.com.br/1504685027/1xg.jpg?imwidth=256",
-        "link": "https://www.casasbahia.com.br/jogo-de-utensilios-tramontina-easy-em-aco-inox-5-pecas-preto/p/1504685027?utm_source=Google&utm_medium=BuscaOrganica&utm_campaign=DescontoEspecial",
-        "category": "Cozinha"
-    },
-    {
         "name": "Jogo De Jarra Com Copos",
         "description": "Miami Havan Casa 7 Peças - Vidro",
         "photo": "https://www.havan.com.br/media/catalog/product/cache/820af7facfa7aca6eb3c138e3457dc8d/j/o/jogo-de-jarra-com-copos-miami-havan-casa-7-pecas_918733.webp",
         "link": "https://www.havan.com.br/jogo-de-jarra-com-copos-miami-havan-casa-7-pecas-vidro/p?utm_source=share",
+        "category": "Cozinha"
+    },
+    {
+        "name": "Jogo De Utensílios Tramontina",
+        "description": "Easy Em Aço Inox 5 Peças Preto",
+        "photo": "https://imgs.casasbahia.com.br/1504685027/1xg.jpg?imwidth=256",
+        "link": "https://www.casasbahia.com.br/jogo-de-utensilios-tramontina-easy-em-aco-inox-5-pecas-preto/p/1504685027?utm_source=Google&utm_medium=BuscaOrganica&utm_campaign=DescontoEspecial",
         "category": "Cozinha"
     }
 ]
