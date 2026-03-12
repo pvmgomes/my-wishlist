@@ -1,17 +1,17 @@
 [
     {
-        "name": "Geladeira Electrolux (TF70)",
-        "description": "Frost Free com AutoSense 431L Efficient Duplex",
-        "photo": "https://m.magazineluiza.com.br/a-static/420x420/geladeira-electrolux-frost-free-com-autosense-431l-efficient-duplex-inox-look-tf70s/electrolux/310127950/692e1caee9b00955eaa39c19dd20a80d.jpeg",
-        "link": "https://m.magazineluiza.com.br/geladeira-electrolux-frost-free-com-autosense-431l-efficient-duplex-inox-look-tf70s/p/kf3k0k1hhg/ed/refr/?seller_id=electrolux",
-        "category": "Cozinha"
+        "name": "Ferro de Passar Roupa",
+        "description": "Vapor e a Seco Electrolux ",
+        "photo": "https://a-static.mlcdn.com.br/420x420/ferro-de-passar-roupa-a-vapor-e-a-seco-electrolux-efficient-esi10-azul/magazineluiza/235627600/ca37258592b4986cb7f50507c148228e.jpg",
+        "link": "https://m.magazineluiza.com.br/ferro-de-passar-roupa-a-vapor-e-a-seco-electrolux-efficient-esi10-azul/p/235627600/ep/ferr/?ads=patrocinado&seller_id=magazineluiza",
+        "category": "Lavanderia"
     },
     {
-        "name": "Colchão Pro Força Casal",
-        "description": "Ortobom, tamanho casal.",
-        "photo": "https://cdn.ortobom.com.br/file/e6df314e-2bfd-43d4-a01f-8d64b1f6aea4/pro%20for%C3%A7a%20site.jpg",
-        "link": "https://www.ortobom.com.br/p/colchao/colchao-pro-forca/casal138",
-        "category": "Cama"
+        "name": "Batedeira Britânia 127v",
+        "description": "Diamante Inox Turbo Duo 4,3L 550W",
+        "photo": "https://philco.vtexassets.com/arquivos/ids/239292/Bat-Diamante-Inox-Turbo-Duo.jpg?v=638809516843600000",
+        "link": "https://www.britania.com.br/batedeira-diamante-inox-turbo-duo-127v-033401237/p",
+        "category": "Cozinha"
     },
     {
         "name": "Ventilador",
@@ -32,6 +32,20 @@
         "description": "Liquidificador Turbo Glass Jarra de Vidro, Preto/Inox, 1400W, 110V - L-1400 GI.",
         "photo": "https://m.media-amazon.com/images/I/61AYmz-vU+L._AC_SX679_.jpg",
         "link": "https://www.amazon.com.br/Liquidificador-Turbo-Glass-Jarra-Mondial/dp/B0C6FTC1Q8?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&smid=A1ZZFT5FULY4LN&th=1",
+        "category": "Cozinha"
+    },
+    {
+        "name": "Aparelho de Jantar e Chá Tramontina",
+        "description": "20 Peças de Porcelana Branco Redondo Silvia",
+        "photo": "https://m.magazineluiza.com.br/a-static/420x420/aparelho-de-jantar-e-cha-20-pecas-tramontina-de-porcelana-branco-redondo-silvia/magazineluiza/237816800/241f71930bc76255b66308548529561c.jpg",
+        "link": "https://m.magazineluiza.com.br/aparelho-de-jantar-e-cha-20-pecas-tramontina-de-porcelana-branco-redondo-silvia/p/237816800/ud/apja/?seller_id=magazineluiza",
+        "category": "Cozinha"
+    },
+    {
+        "name": "Mixer 3 em 1 Electrolux Preto",
+        "description": "400W com Tecnologia TruFlow - 127V",
+        "photo": "https://electrolux.vtexassets.com/arquivos/ids/210171-500-500?v=638815549423900000&width=500&height=500&aspect=true&format=auto",
+        "link": "https://loja.electrolux.com.br/mixer_3_em_1_eib10_electrolux/p",
         "category": "Cozinha"
     }
 ]
