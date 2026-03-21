@@ -4,111 +4,159 @@
         "description": "Vapor e a Seco Electrolux ",
         "photo": "https://a-static.mlcdn.com.br/420x420/ferro-de-passar-roupa-a-vapor-e-a-seco-electrolux-efficient-esi10-azul/magazineluiza/235627600/ca37258592b4986cb7f50507c148228e.jpg",
         "link": "https://m.magazineluiza.com.br/ferro-de-passar-roupa-a-vapor-e-a-seco-electrolux-efficient-esi10-azul/p/235627600/ep/ferr/?ads=patrocinado&seller_id=magazineluiza",
-        "category": "Lavanderia"
+        "category": "Lavanderia",
+        "visible": false
     },
     {
         "name": "Batedeira Britânia 127v",
         "description": "Diamante Inox Turbo Duo 4,3L 550W",
         "photo": "https://philco.vtexassets.com/arquivos/ids/239292/Bat-Diamante-Inox-Turbo-Duo.jpg?v=638809516843600000",
         "link": "https://www.britania.com.br/batedeira-diamante-inox-turbo-duo-127v-033401237/p",
-        "category": "Cozinha"
+        "category": "Cozinha",
+        "visible": true
     },
     {
         "name": "Ventilador",
         "description": "Ventilador de Coluna Britânia BVT450 160w Maxx Force Preto 127v.",
         "photo": "https://a-static.mlcdn.com.br/420x420/ventilador-de-coluna-britania-bvt450-160w-maxx-force-preto-127v/fidcomex/brbvt450pt/d280a563523adc3f80c1c779a1b44f88.jpeg",
         "link": "https://www.magazineluiza.com.br/ventilador-de-coluna-britania-bvt450-160w-maxx-force-preto-127v/p/ak7gecffbh/ar/arvl/?seller_id=fidcomex&region_id=123474&utm_source=google&utm_medium=cpc&utm_term=84398&utm_campaign=google_eco_per_ven_pla_arp_sor_3p_ar-b-0326&utm_content=&partner_id=84398&gclsrc=aw.ds&gad_source=1&gad_campaignid=23600311367&gbraid=0AAAAAD4zZmRcpmLuPUMHjCPIV5-GLXUxy&gclid=EAIaIQobChMIo9L0_u6JkwMVbVBIAB04gSYeEAQYASABEgJAI_D_BwE",
-        "category": "Cama"
+        "category": "Cama",
+        "visible": true
     },
     {
         "name": "Saunduicheira",
         "description": "Sanduicheira E Grill Britânia BGR27I Press 2 Em 1 850W 110V.",
         "photo": "https://a-static.mlcdn.com.br/420x420/sanduicheira-e-grill-britania-bgr27i-press-2-em-1-850w-110v/lojawebcontinentalmarketplace/mkp006176000353/762dd00942ddce7f2daa7b1bdd860394.jpeg",
         "link": "https://www.magazineluiza.com.br/sanduicheira-e-grill-britania-bgr27i-press-2-em-1-850w-110v/p/ddbba05ffe/ep/gset/?&seller_id=lojawebcontinentalmarketplace&utm_source=google&utm_medium=cpc&utm_term=84396&utm_campaign=google_eco_per_ven_pla_arp_apo_3p_ep-0326&utm_content=&partner_id=84396&gclsrc=aw.ds&gad_source=1&gad_campaignid=23594804622&gbraid=0AAAAAD4zZmQSTLEaqBtedjUv8-adcBRQX&gclid=EAIaIQobChMItIag6O-JkwMVrVtIAB33WwTBEAQYASABEgI8K_D_BwE",
-        "category": "Cozinha"
+        "category": "Cozinha",
+        "visible": false
     },
     {
         "name": "Liquidificador Mondial",
         "description": "Liquidificador Turbo Glass Jarra de Vidro, Preto/Inox, 1400W, 110V - L-1400 GI.",
-        "photo": "https://m.media-amazon.com/images/I/61AYmz-vU+L._AC_SX679_.jpg",
+        "photo": "https://static1.efacil.com.br/wcsstore/ExtendedSitesCatalogAssetStore/Imagens/1000/2222873_01.jpg",
         "link": "https://www.amazon.com.br/Liquidificador-Turbo-Glass-Jarra-Mondial/dp/B0C6FTC1Q8?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&smid=A1ZZFT5FULY4LN&th=1",
-        "category": "Cozinha"
+        "category": "Cozinha",
+        "visible": true
     },
     {
         "name": "Aparelho de Jantar e Chá Tramontina",
         "description": "20 Peças de Porcelana Branco Redondo Silvia",
         "photo": "https://m.magazineluiza.com.br/a-static/420x420/aparelho-de-jantar-e-cha-20-pecas-tramontina-de-porcelana-branco-redondo-silvia/magazineluiza/237816800/241f71930bc76255b66308548529561c.jpg",
         "link": "https://m.magazineluiza.com.br/aparelho-de-jantar-e-cha-20-pecas-tramontina-de-porcelana-branco-redondo-silvia/p/237816800/ud/apja/?seller_id=magazineluiza",
-        "category": "Cozinha"
+        "category": "Cozinha",
+        "visible": true
     },
     {
         "name": "Mixer 3 em 1 Electrolux Preto",
         "description": "400W com Tecnologia TruFlow - 127V",
         "photo": "https://electrolux.vtexassets.com/arquivos/ids/210171-500-500?v=638815549423900000&width=500&height=500&aspect=true&format=auto",
         "link": "https://loja.electrolux.com.br/mixer_3_em_1_eib10_electrolux/p",
-        "category": "Cozinha"
+        "category": "Cozinha",
+        "visible": true
     },
     {
         "name": "Faqueiro Tramontina Búzios",
         "description": "Aço Inox Com Detalhe 24 Peças",
         "photo": "https://imgs.casasbahia.com.br/1570449341/1xg.jpg?imwidth=256",
         "link": "https://www.casasbahia.com.br/faqueiro-tramontina-buzios-em-aco-inox-com-detalhe-24-pecas/p/1570449341?utm_medium=Cpc&utm_source=GP_PLA&IdSku=1570449341&idLojista=11121&tipoLojista=3P&gclsrc=aw.ds&&utm_campaign=cb_mkp_gg_shopping_sellers_12a14&gad_source=1&gad_campaignid=22804489870&gbraid=0AAAAADtAamik6Xj4H1GtJectows7uVeE9&gclid=CjwKCAjwpcTNBhA5EiwAdO1S9lnFKJFrozFZZG9txILgfQRCQwXQ9IO-zyD37fO6P7gVcLgT6rLTYRoCStkQAvD_BwE",
-        "category": "Cozinha"
+        "category": "Cozinha",
+        "visible": true
     },
     {
         "name": "Conjunto de Facas Tramontina",
         "description": "Com 6 Peças",
         "photo": "https://imgs.casasbahia.com.br/55060724/1g.jpg?imwidth=256",
         "link": "https://www.casasbahia.com.br/conjunto-de-facas-tramontina-plenus-com-tesoura-6-pecas/p/55060724?utm_source=GP_PLA&utm_medium=Cpc&utm_campaign=cb_mkp_gg_shopping_sellers_12a14",
-        "category": "Cozinha"
+        "category": "Cozinha",
+        "visible": true
     },
     {
         "name": "Multiprocessador de Alimentos Mondial - 110v",
         "description": "Turbo Chef 9 em 1, 2 Velocidades + Pulsar 1000 W",
         "photo": "https://imgs.casasbahia.com.br/55048238/1g.jpg?imwidth=256",
         "link": "https://www.casasbahia.com.br/multiprocessador-de-alimentos-mondial-turbo-chef-9-em-1-mpn-01-bf-2-velocidades-pulsar-1000-w/p/55048238?vtr_id=recomendados_para_voce&vtr_name=recomendados+para+voce",
-        "category": "Cozinha"
+        "category": "Cozinha",
+        "visible": true
     },
     {
         "name": "Panela de Pressão Elétrica Mondial",
         "description": "Digital Master Cooker 5L Preta - 110V",
         "photo": "https://imgs.casasbahia.com.br/15003627/1g.jpg?imwidth=256",
         "link": "https://www.casasbahia.com.br/panela-de-pressao-eletrica-mondial-5l-digital-master-cooker-pe-38-5l-preta/p/15003627",
-        "category": "Cozinha"
+        "category": "Cozinha",
+        "visible": true
     },
     {
         "name": "Kit 6 Potes de Vidro Hermético",
         "description": "Retangular 370ml",
         "photo": "https://imgs.casasbahia.com.br/1572393737/1xg.jpg?imwidth=256",
         "link": "https://www.casasbahia.com.br/kit-6-potes-de-vidro-hermetico-retangular-370ml/p/1572393737?utm_source=GP_PLA&utm_medium=Cpc&utm_campaign=cb_mkp_gg_shopping_sellers_12a14",
-        "category": "Cozinha"
+        "category": "Cozinha",
+        "visible": false
     },
     {
         "name": "Conjunto de Travessas Refratárias Marinex",
         "description": "Em Vidro - 10 Peças",
         "photo": "https://imgs.casasbahia.com.br/55058982/1g.jpg?imwidth=256",
         "link": "https://www.casasbahia.com.br/conjunto-de-travessas-refratarias-marinex-em-vidro-10-pecas/p/55058982?utm_source=GP_PLA&utm_medium=Cpc&utm_campaign=cb_mkp_gg_shopping_sellers_12a14",
-        "category": "Cozinha"
+        "category": "Cozinha",
+        "visible": true
     },
     {
         "name": "Mesa De Passar Roupa",
         "description": "Extra Forte Utilaço",
         "photo": "https://imgs.casasbahia.com.br/12724163/1xg.jpg?imwidth=256",
         "link": "https://www.casasbahia.com.br/mesa-de-passar-roupa-extra-forte-utilaco/p/12724163?utm_source=GP_PLA&utm_medium=Cpc&utm_campaign=cb_mkp_gg_shopping_sellers_12a14",
-        "category": "Lavanderia"
+        "category": "Lavanderia",
+        "visible": true
     },
     {
         "name": "Jogo De Jarra Com Copos",
         "description": "Miami Havan Casa 7 Peças - Vidro",
         "photo": "https://www.havan.com.br/media/catalog/product/cache/820af7facfa7aca6eb3c138e3457dc8d/j/o/jogo-de-jarra-com-copos-miami-havan-casa-7-pecas_918733.webp",
         "link": "https://www.havan.com.br/jogo-de-jarra-com-copos-miami-havan-casa-7-pecas-vidro/p?utm_source=share",
-        "category": "Cozinha"
+        "category": "Cozinha",
+        "visible": true
     },
     {
         "name": "Jogo De Utensílios Tramontina",
         "description": "Easy Em Aço Inox 5 Peças Preto",
         "photo": "https://imgs.casasbahia.com.br/1504685027/1xg.jpg?imwidth=256",
         "link": "https://www.casasbahia.com.br/jogo-de-utensilios-tramontina-easy-em-aco-inox-5-pecas-preto/p/1504685027?utm_source=Google&utm_medium=BuscaOrganica&utm_campaign=DescontoEspecial",
-        "category": "Cozinha"
+        "category": "Cozinha",
+        "visible": true
+    },
+    {
+        "name": "Air Fryer Oven Britânia - 127v",
+        "description": "12L 4 em 1 1800W - 127 volts",
+        "photo": "https://down-br.img.susercontent.com/file/sg-11134201-8262k-mlyyoxbqq1hk36@resize_w900_nl.webp",
+        "link": "https://br.shp.ee/BYRtM9Kx",
+        "category": "Cozinha",
+        "visible": true
+    },
+    {
+        "name": "Jogo De Panelas Inox 9 peças",
+        "description": "Indução Fundo Triplo Laune Haus",
+        "photo": "https://http2.mlstatic.com/D_NQ_NP_2X_898800-MLA108555945633_032026-F.webp",
+        "link": "https://www.mercadolivre.com.br/jogo-panela-inox-9pc-induco-fundo-triplo-laune-haus/p/MLB61713407?pdp_filters=item_id%3AMLB4289956225&matt_tool=38524122#origin=share&sid=share&wid=MLB4289956225&action=copy",
+        "category": "Cozinha",
+        "visible": true
+    }, 
+    {
+        "name": "Micro-ondas Electrolux 27L - Bivolt",
+        "description": "Cor Inox Espelhado Bivolt",
+        "photo": "https://imgs.casasbahia.com.br/13880411/1xg.jpg?imwidth=256",
+        "link": "https://www.casasbahia.com.br/micro-ondas-electrolux-27l-cor-inox-espelhado-com-55-receitas-pre-programadas-ms37r/p/13880411",
+        "category": "Cozinha",
+        "visible": true
+    },
+    {
+        "name": "Jogo De Assadeiras Tramontina - 3 Peças",
+        "description": "Em Alumínio com Revestimento Interno e Externo em Antiaderente Starflon Max Grafite",
+        "photo": "https://assets.tramontina.com.br/upload/tramon/imagens/CUT/20099084PDM001G.jpg",
+        "link": "https://www.tramontina.com.br/jogo-de-assadeiras-tramontina-brasil-em-aluminio-com-revestimento-interno-e-externo-em-antiaderente-starflon-max-grafite-03-pecas/20099084.html",
+        "category": "Cozinha",
+        "visible": true
     }
 ]
