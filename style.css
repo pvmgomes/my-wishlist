@@ -138,3 +138,112 @@ body {
     .container { padding: 1rem; }
     .product-grid { gap: 1.5rem; }
 }
+
+/* Sidebar Drawer */
+.sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 280px;
+    height: 100%;
+    background-color: var(--color-thyme);
+    color: var(--color-off-white);
+    z-index: 1000;
+    transform: translateX(-100%);
+    transition: var(--transition);
+    padding: 2rem;
+    box-shadow: 5px 0 15px rgba(0,0,0,0.1);
+}
+
+.sidebar.open {
+    transform: translateX(0);
+}
+
+.sidebar-logo {
+    font-family: 'Playfair Display', serif;
+    margin-bottom: 3rem;
+    border-bottom: 1px solid rgba(245, 245, 240, 0.2);
+    padding-bottom: 1rem;
+}
+
+.nav-links {
+    list-style: none;
+}
+
+.nav-links li {
+    margin-bottom: 1.5rem;
+}
+
+.nav-links a {
+    color: var(--color-off-white);
+    text-decoration: none;
+    font-size: 1.1rem;
+    font-weight: 300;
+    letter-spacing: 1px;
+    transition: var(--transition);
+}
+
+.nav-links a.active, .nav-links a:hover {
+    padding-left: 10px;
+    color: var(--color-white);
+    font-weight: 600;
+}
+
+/* Menu Toggle Button */
+.menu-toggle {
+    position: absolute;
+    top: 2rem;
+    left: 2rem;
+    background: none;
+    border: none;
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    z-index: 900;
+}
+
+.menu-toggle span {
+    display: block;
+    width: 25px;
+    height: 2px;
+    background-color: var(--color-thyme);
+    transition: var(--transition);
+}
+
+/* Close Button inside Sidebar */
+.close-btn {
+    position: absolute;
+    top: 1.5rem;
+    right: 1.5rem;
+    background: none;
+    border: none;
+    color: var(--color-off-white);
+    font-size: 2rem;
+    cursor: pointer;
+}
+
+/* Overlay */
+.overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(44, 51, 35, 0.5);
+    backdrop-filter: blur(2px);
+    z-index: 950;
+    display: none;
+}
+
+.overlay.visible {
+    display: block;
+}
+
+/* Adjust header to account for absolute button on small screens */
+@media (max-width: 600px) {
+    .menu-toggle {
+        top: 1.5rem;
+        left: 1rem;
+    }
+}

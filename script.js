@@ -27,4 +27,29 @@ function renderProducts(products, container) {
     `).join('');
 }
 
-document.addEventListener('DOMContentLoaded', initWishlist);
+function setupNavigation() {
+    const menuToggle = document.getElementById('menu-toggle');
+    const closeMenu = document.getElementById('close-menu');
+    const sidebar = document.getElementById('sidebar');
+    const overlay = document.getElementById('overlay');
+
+    const toggle = () => {
+        sidebar.classList.toggle('open');
+        overlay.classList.toggle('visible');
+    };
+
+    if(menuToggle) menuToggle.addEventListener('click', toggle);
+    if(closeMenu) closeMenu.addEventListener('click', toggle);
+    if(overlay) overlay.addEventListener('click', toggle);
+}
+
+// Update your DOMContentLoaded listener:
+document.addEventListener('DOMContentLoaded', () => {
+    // Only run product loader if we are on the wishlist page
+    if (document.getElementById('product-grid')) {
+        initWishlist();
+    }
+    setupNavigation();
+});
+
+//document.addEventListener('DOMContentLoaded', initWishlist);
