@@ -13,7 +13,9 @@ async function initWishlist() {
 }
 
 function renderProducts(products, container) {
-    container.innerHTML = products.map(item => `
+    container.innerHTML = products.map(item => {
+        if (!item.visible) return '';
+        return `
         <article class="product-card">
             <div class="img-container">
                 <img src="${item.photo}" alt="${item.name}" class="product-image" loading="lazy">
@@ -24,7 +26,7 @@ function renderProducts(products, container) {
                 <a href="${item.link}" target="_blank" class="buy-btn">Mais detalhes</a>
             </div>
         </article>
-    `).join('');
+    `}).join('');
 }
 
 function setupNavigation() {
