@@ -61,7 +61,7 @@
         "photo": "https://imgs.casasbahia.com.br/1570449341/1xg.jpg?imwidth=256",
         "link": "https://www.casasbahia.com.br/faqueiro-tramontina-buzios-em-aco-inox-com-detalhe-24-pecas/p/1570449341?utm_medium=Cpc&utm_source=GP_PLA&IdSku=1570449341&idLojista=11121&tipoLojista=3P&gclsrc=aw.ds&&utm_campaign=cb_mkp_gg_shopping_sellers_12a14&gad_source=1&gad_campaignid=22804489870&gbraid=0AAAAADtAamik6Xj4H1GtJectows7uVeE9&gclid=CjwKCAjwpcTNBhA5EiwAdO1S9lnFKJFrozFZZG9txILgfQRCQwXQ9IO-zyD37fO6P7gVcLgT6rLTYRoCStkQAvD_BwE",
         "category": "Cozinha",
-        "visible": true
+        "visible": false
     },
     {
         "name": "Conjunto de Facas Tramontina",
@@ -141,7 +141,7 @@
         "photo": "https://http2.mlstatic.com/D_NQ_NP_2X_898800-MLA108555945633_032026-F.webp",
         "link": "https://www.mercadolivre.com.br/jogo-panela-inox-9pc-induco-fundo-triplo-laune-haus/p/MLB61713407?pdp_filters=item_id%3AMLB4289956225&matt_tool=38524122#origin=share&sid=share&wid=MLB4289956225&action=copy",
         "category": "Cozinha",
-        "visible": true
+        "visible": false
     }, 
     {
         "name": "Micro-ondas Electrolux 27L - Bivolt",
@@ -149,7 +149,7 @@
         "photo": "https://imgs.casasbahia.com.br/13880411/1xg.jpg?imwidth=256",
         "link": "https://www.casasbahia.com.br/micro-ondas-electrolux-27l-cor-inox-espelhado-com-55-receitas-pre-programadas-ms37r/p/13880411",
         "category": "Cozinha",
-        "visible": true
+        "visible": false
     },
     {
         "name": "Jogo De Assadeiras Tramontina - 3 Peças",
